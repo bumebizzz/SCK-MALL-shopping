@@ -21,3 +21,21 @@
 | 04/04/2024 | เขียน Robot Framework ระดับอนุบาล บน VScode | 180 นาที | X |
 | 05/04/2024 | เขียน Robot Framework ระดับปริญญาตรี บน VScode  | 180 นาที | X |
 | 05/04/2024 | ส่งมอบงานทั้งหมด  | 30 นาที | X |
+---
+### แผนสำรองการทำงาน
+---
+| วันที่ | Activity | Estimate Time | Complete |
+| :---- | :----: | :----: | :----: |
+| 28/03/2024 | นำภาพจาก Figma ไปลงใน Miro board | 90 นาที | / |
+| 29/03/2024 | ทำแผนการส่งงาน Robot | 120 นาที | / |
+| 01/04/2024 | ออกแบบ Test Case บน Miro Board | 180 นาที | X |
+| 02/04/2024 | ออกแบบ Test Scenarios Success บน Miro Board | 120 นาที | X |
+| 03/04/2024 | ออกแบบ Test Scenarios Alternative บน Miro Board | 120 นาที | X |
+| 04/04/2024 | เขียน Robot Framework ระดับอนุบาล บน VScode | 180 นาที | X |
+| 04/04/2024 | Rewrite Plan | 15 นาที | / |
+| 08/04/2024 | ออกแบบ Test Case บน Miro Board | 180 นาที | X |
+| 08/04/2024 | ออกแบบ Test Scenarios Success บน Miro Board | 120 นาที | X |
+| 08/04/2024 | ออกแบบ Test Scenarios Alternative บน Miro Board | 120 นาที | X |
+| 09/04/2024 | เขียน Robot Framework ระดับปริญญาตรี บน VScode  | 180 นาที | X |
+| 09/04/2024 | เขียน Robot Framework ระดับอนุบาล บน VScode | 180 นาที | X |
+| 09/04/2024 | ส่งมอบงานทั้งหมด  | 30 นาที | X |
